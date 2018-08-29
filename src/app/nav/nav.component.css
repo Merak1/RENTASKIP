@@ -1,0 +1,15 @@
+#imagen-rentaskip{
+    height: 90px;
+}
+a{
+    color: orange;
+}
+.nav-custom{
+    background: linear-gradient(to bottom, #ffffff 0%,#f6f6f6 47%,#ededed 100%); 
+}
+p{
+    font-size: 10px;
+}
+.nav-custom-2{
+    padding-right: 20px;
+}
